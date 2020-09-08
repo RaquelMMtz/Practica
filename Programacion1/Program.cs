@@ -6,7 +6,8 @@ namespace Programacion1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola AmigoS!");
+            Console.WriteLine("Hola Amigos!");
+            Console.ReadKey();
         }
     }
 }
